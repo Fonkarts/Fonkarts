@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fonkarts
+- 👋 Hi, I’m Sébastien
 - 👀 I’m interested in coding, music, video games and movies
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on my student projects
