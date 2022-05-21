@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sébastien
 - 👀 I’m interested in coding, music, video games and movies
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on my student projects
+- 🌱 I’m currently Web developer
+- 💞️ I’m looking to collaborate on projects and get some new skills
 - 📫 How to reach me : send me an PM
 
 <!---
