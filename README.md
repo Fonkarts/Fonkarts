@@ -5,7 +5,7 @@
 - 📫 How to reach me : 
   - Send me a PM
   - Visit my LinkedIn profile : https://www.linkedin.com/in/sebastienhouchet-2473609a/
-  - Use my portfolio's contact form : https://sebastien-houchet.up.railway.app
+
 
 <!---
 Fonkarts/Fonkarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
